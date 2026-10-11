@@ -1,0 +1,8 @@
+{
+  "name": "ChessMind Elite - Personal Grandmaster Chess Training",
+  "description": "The world's most thoughtful personal chess training experience combining engine-grounded analysis, conversational voice coaching, Grandmaster academies, and the 7-step decision loop.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
